@@ -10,7 +10,7 @@ If you have any questions regarding the instructions to the lab, contact the ins
 
 **Steps:**
 * [Step 1: Installing VScode](https://pranavmekkoth1.github.io/Lab1-tutorial/Installing%20VScode) 
-* [Step 2: Remotley Connecting]()
+* [Step 2: Remotley Connecting](https://pranavmekkoth1.github.io/Lab1-tutorial/RemotleyConnecting)
 * [Step 3: Try some commands]()
 * [Step 4: Moveing files with scp]()
 * [Step 5: Setting a SSH key]()
