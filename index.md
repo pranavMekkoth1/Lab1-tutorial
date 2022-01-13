@@ -8,6 +8,11 @@
 
 If you have any questions regarding the instructions to the lab, contact the instructor or a TA.
 
-Steps:
-* [Step 1: Installing VScode](https://code.visualstudio.com/download) 
+**Steps:**
+* [Step 1: Installing VScode](https://pranavmekkoth1.github.io/Lab1-tutorial/Installing%20VScode) 
+* [Step 2: Remotley Connecting]()
+* [Step 3: Try some commands]()
+* [Step 4: Moveing files with scp]()
+* [Step 5: Setting a SSH key]()
+* [Step 6: Optimizing remote running]()
 
