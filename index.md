@@ -16,4 +16,4 @@ If you have any questions regarding the instructions to the lab, contact the ins
 * [Step 5: Setting a SSH key](https://pranavmekkoth1.github.io/Lab1-tutorial/SSH_Key)
 * [Step 6: Optimizing remote running](https://pranavmekkoth1.github.io/Lab1-tutorial/Optimizing)
 
-Now that you have completed all 6 steps, you are now finished with CSE 15L lab 1
+Now that you have completed all 6 steps, you are now finished with CSE 15L lab 1!
