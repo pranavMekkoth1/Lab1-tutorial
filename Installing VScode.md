@@ -1,5 +1,6 @@
 # Installing VScode
 
+**Instructions:**
 * Step 1: Go to the Visual Studio Code Website ([VScode](https://code.visualstudio.com/download)) and follow the instructions to download the appropriate version for your computer.
 * Step 2: Open Visual Studio Code on your computer
 
