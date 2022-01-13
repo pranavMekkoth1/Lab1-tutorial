@@ -7,3 +7,5 @@
 Example result:
 
 ![Image](https://user-images.githubusercontent.com/97641097/149273846-90ee8747-65a4-4733-9457-e4c00678d0fd.JPG)
+
+[Go Back](https://pranavmekkoth1.github.io/Lab1-tutorial/)
