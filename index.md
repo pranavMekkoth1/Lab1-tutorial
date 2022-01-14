@@ -10,6 +10,19 @@ If you have any questions regarding the instructions to the lab, contact the ins
 
 **Steps:**
 * [Step 1: Installing VScode](https://pranavmekkoth1.github.io/Lab1-tutorial/Installing%20VScode) 
+
+**Instructions:**
+* Step 1: Go to the Visual Studio Code Website ([VScode](https://code.visualstudio.com/download)) and follow the instructions to download the appropriate version for your computer.
+* Step 2: Open Visual Studio Code on your computer
+
+This is what it should look like this afterwards:
+![Image](https://user-images.githubusercontent.com/97641097/149268597-3ee23a7e-7b68-44ad-9ce0-a864fe694677.png)
+
+
+
+
+
+
 * [Step 2: Remotley Connecting](https://pranavmekkoth1.github.io/Lab1-tutorial/RemotleyConnecting)
 * [Step 3: Try some commands](https://pranavmekkoth1.github.io/Lab1-tutorial/RunCommands)
 * [Step 4: Moveing files with scp](https://pranavmekkoth1.github.io/Lab1-tutorial/MovingFiles)
