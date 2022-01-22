@@ -23,7 +23,7 @@ If you have any questions regarding the instructions to the lab, contact the ins
     **Instructions:**
     1. If you have a Windows computer install Open SSh ([link](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)). Then, look up your course specific accound: [ucsd accounts website](https://sdacs.ucsd.edu/~icc/index.php).
     2. Open a new Terminal in VScode. 
-    3. Type: " ssh [your course specific account]" in the terminal window. When a message asks "Are you sure you want to continue connecting?" enter yes. You will then be prompted to enter your password (no text will show up while typing password). 
+    3. Type: `ssh [your course specific account]` in the terminal window. When a message asks "Are you sure you want to continue connecting?" enter `yes`. You will then be prompted to enter your password (no text will show up while typing password). 
 
     At this point, you are connected to the CSE 15L server.
 
@@ -33,8 +33,8 @@ If you have any questions regarding the instructions to the lab, contact the ins
 * **Step 3: Try some commands**
 
     **Instructions:**
-    1. Try running commands like cd, ls, pwd, mkdir, cp, and any other useful commands in the terminal of your computer and the server.
-    2. Experiment with a couple of these useful commands for yourself: cd~, ls-lat, ls-a, ls-directory
+    1. Try running commands like `cd`, `ls`, `pwd`, `mkdir`, `cp`, and any other useful commands in the terminal of your computer and the server.
+    2. Experiment with a couple of these useful commands for yourself: `cd~`, `ls-lat`, `ls-a`, `ls-directory` .
 
     Example result:
 
@@ -45,8 +45,8 @@ If you have any questions regarding the instructions to the lab, contact the ins
    **Instructions:**
    
    1. Create a file called WhereAmI.java with the following code. (first image under the instructions)
-   2. In the terminal directory where you made the file, run the following command: "scp WhereAmI.java [your ucsd course account] :~/". You will be prompted to enter your password to log into the server.
-   3. When you are in the server, enter "ls" in the terminal to confirm the files has been copied over. Then, use appropriate commands to run the code (javac then java).
+   2. In the terminal directory where you made the file, run the following command: `scp WhereAmI.java [your ucsd course account] :~/`. You will be prompted to enter your password to log into the server.
+   3. When you are in the server, enter `ls` in the terminal to confirm the files has been copied over. Then, use appropriate commands to run the code (javac then java).
   
   ![Image](https://user-images.githubusercontent.com/97641097/149275523-f3e05dc5-8c07-4cba-aac2-cb8253abf232.png)
 
@@ -58,9 +58,9 @@ If you have any questions regarding the instructions to the lab, contact the ins
 
     **Instructions:**
     
-    1. (in the VScode terminal for your computer) enter "ssh-keygen" command. Follow to the prompts and answer the necessary questions. This should result in creating a pair of public and private keys tha will allow you to log into the server for the class without entering your password every time. 
-    2. If you are on windows, go to this [link](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation) to do the additional ssh-add commands.
-    3. Log into the class server (with your account). Run the command "mkdir .ssh" in the server terminal than logout of the server. Now you should be able to enter the server without haveing to enter a password.
+    1. (in the VScode terminal for your computer) enter `ssh-keygen` command. Follow to the prompts and answer the necessary questions. This should result in creating a pair of public and private keys tha will allow you to log into the server for the class without entering your password every time. 
+    2. If you are on windows, go to this [link](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation) to do the additional `ssh-add` commands.
+    3. Log into the class server (with your account). Run the command `mkdir .ssh` in the server terminal than logout of the server. Now you should be able to enter the server without haveing to enter a password.
 
     Logging in should look similar to this:
 
