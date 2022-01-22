@@ -74,15 +74,16 @@ If you have any questions regarding the instructions to the lab, contact the ins
 
      What we tried as a group:
      1. Edit the file:
-         ![Image](https://user-images.githubusercontent.com/97641097/150620497-694bacc2-9f66-4ca1-ac6a-0181b070d464.JPG)
+        
+        ![Image](https://user-images.githubusercontent.com/97641097/150620497-694bacc2-9f66-4ca1-ac6a-0181b070d464.JPG)
       
      2. Use the up arrow keys to compile and run the program:
-     3. Use the up arrow keys agian to run it in the server without entering the server
-
-    Example:
-
-    ![Image](https://user-images.githubusercontent.com/97641097/149278271-a91fbe24-02d2-41ff-b0ee-f418de365032.JPG)
-
+        
+        ![Image](https://user-images.githubusercontent.com/97641097/150620766-eb0548b0-a852-450d-9998-043d38c02ff6.png)
+        
+     3. Use the up arrow keys agian to run it in the server without log into the server:
+      ![Image](https://user-images.githubusercontent.com/97641097/150620872-4df35182-9a89-4f58-a81b-5b8a76fa884f.png)
+      
 
 
 **Now that you have completed all 6 steps, you are now finished with CSE 15L lab 1!**
