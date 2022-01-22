@@ -82,7 +82,7 @@ If you have any questions regarding the instructions to the lab, contact the ins
         ![Image](https://user-images.githubusercontent.com/97641097/150620766-eb0548b0-a852-450d-9998-043d38c02ff6.png)
         
      3. Use the up arrow keys agian to run it in the server without log into the server:
-      ![Image](https://user-images.githubusercontent.com/97641097/150620872-4df35182-9a89-4f58-a81b-5b8a76fa884f.png)
+      ![Image](https://user-images.githubusercontent.com/97641097/150656282-23ad8a6d-069d-4637-81e8-7a6a9637c522.png)
       
 
 
